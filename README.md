@@ -9,3 +9,5 @@ Introduction to Artificial Intelligence by Doug Rose via LinkedIn Learning (http
 AI for Beginners - from Microsoft - https://github.com/microsoft/AI-For-Beginners/
 
 AI for Anyone (website) - https://www.aiforanyone.org/glossary/semantic-network
+
+Please don't hesitate to add words and definitions. 
